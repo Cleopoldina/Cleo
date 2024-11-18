@@ -1,7 +1,26 @@
 body{
-    background:lightseagreen;
+    background:rgb(17, 19, 19);
     color: blue;
     margin: 0px;
-
-    font-family: "Lobster", sans-serif;
+    font-family: "playfair Display", serif;
+    margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px rgb(33, 191, 243);
+    padding: 20px;
+    color: white
+    font-size: 35px;
+}
+.chamada{
+    background: lightblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-left: 5%;
+}
+h1{
+    font-size: 35px;
 }
